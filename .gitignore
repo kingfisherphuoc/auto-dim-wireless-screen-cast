@@ -1,0 +1,25 @@
+.gradle/
+.idea/
+.kotlin/
+**/build/
+local.properties
+*.iml
+.DS_Store
+dist/
+
+# Local signing credentials and generated packages
+*.keystore
+*.jks
+keystore.properties
+signing.properties
+*.apk
+*.aab
+*.idsig
+
+# Native build output and local editor files
+.externalNativeBuild/
+.cxx/
+.captures/
+captures/
+.vscode/
+*.hprof
