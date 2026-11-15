@@ -23,3 +23,5 @@ signing.properties
 captures/
 .vscode/
 *.hprof
+keys/
+app/release/
